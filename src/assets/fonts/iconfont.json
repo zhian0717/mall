@@ -1,0 +1,30 @@
+{
+  "id": "1855348",
+  "name": "魔点",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "113143",
+      "name": "weixin",
+      "font_class": "weixin",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "124857",
+      "name": "微博",
+      "font_class": "weibo",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "1115074",
+      "name": "手机",
+      "font_class": "shouji",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    }
+  ]
+}
